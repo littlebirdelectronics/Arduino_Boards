@@ -2,8 +2,6 @@
 
 This repository contains support for the following Little Bird Arduino-compatible development boards.
 
-**IMPORTANT NOTE:** These board files have been updated for compatibility with Arduino version 1.8 and higher. Some boards (e.g. SAMD) may not compile correctly with earlier versions of Arduino. If you need compatibility with earlier versions of Arduino, you can choose previous releases of these boards from the Boards Manager.
-
 #### AVR Boards
 * [Shakey](#)
 
@@ -19,7 +17,7 @@ To add board support for our products, start Arduino and open the Preferences wi
 
 If there is already an URL from another manufacturer in that field, click the button at the right end of the field. This will open an editing window allowing you to paste the above URL onto a new line.
 
-### AVR and ESP Installation Instructions
+### AVR Instructions
 
 Open the Boards Manager window by selecting **Tools** > **Board**, scroll to the top of the board list, and select **Boards Manager**.
 
