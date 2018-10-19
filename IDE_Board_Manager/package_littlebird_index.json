@@ -1,0 +1,35 @@
+{
+	"packages": [
+	{
+		"name": "LittleBird",
+		"maintainer": "Little Bird Electronics",
+		"websiteURL": "https://littlebird.com.au",
+		"email": "help@littlebird.com.au",
+		"help": {
+			"online": "https://www.littlebird.com.au/learn"
+		},
+		"platforms": [
+		{
+			"name": "Little Bird AVR Boards",
+			"architecture": "avr",
+			"version": "1.0.1",
+			"category": "Contributed",
+			"url": "https://github.com/littlebirdelectronics/Arduino_Boards/raw/master/IDE_Board_Manager/littlebird-avr-1.0.1.zip",
+			"archiveFileName": "littlebird-avr-1.0.1.zip",
+			"checksum": "SHA-256:a6ff6940514e4569d42f4d02409b32220ab109e25abd40dc943cde0a6d7fcb62",
+			"size": "785491",
+			"help": {
+				"online": "https://www.littlebird.com.au/learn"
+			},
+			"boards": [
+			{
+				"name": "Shakey"
+			}
+			],
+			"toolDependencies": []
+		}
+		],
+		"tools": []
+	}
+	]
+}
