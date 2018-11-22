@@ -4,8 +4,7 @@ This repository contains support for the following Little Bird Arduino-compatibl
 
 #### AVR Boards
 * [Shakey](#)
-
-
+* [EagLED](#)
 
 ### Installation Instructions
 
