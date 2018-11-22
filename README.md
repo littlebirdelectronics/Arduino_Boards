@@ -11,7 +11,9 @@ This repository contains support for the following Little Bird Arduino-compatibl
 
 To add board support for our products, start Arduino and open the Preferences window (**File** > **Preferences**). Now copy and paste the following URL into the 'Additional Boards Manager URLs' input field:
 
-	https://raw.githubusercontent.com/littlebirdelectronics/Arduino_Boards/master/IDE_Board_Manager/package_little_bird_index.json
+ ```
+ https://raw.githubusercontent.com/littlebirdelectronics/Arduino_Boards/master/IDE_Board_Manager/package_littlebird_index.json
+ ```
 
 <!-- ![Location of Additional Boards Manager URL input field](prefs-arrow.png) -->
 
