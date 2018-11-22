@@ -27,6 +27,28 @@
 			}
 			],
 			"toolDependencies": []
+		},
+		{
+			"name": "Little Bird AVR Boards",
+			"architecture": "avr",
+			"version": "1.0.2",
+			"category": "Contributed",
+			"url": "https://github.com/littlebirdelectronics/Arduino_Boards/raw/master/IDE_Board_Manager/littlebird-avr-1.0.2.zip",
+			"archiveFileName": "littlebird-avr-1.0.2.zip",
+			"checksum": "SHA-256:a63b32d47d34cbad20675062e17a330d6d5c02e01cc2a4b89be97d9f30917bc6",
+			"size": "138982",
+			"help": {
+				"online": "https://www.littlebird.com.au/learn"
+			},
+			"boards": [
+			{
+				"name": "Shakey"
+			},
+			{
+				"name": "EagLED"
+			}
+			],
+			"toolDependencies": []
 		}
 		],
 		"tools": []
